@@ -1,0 +1,10 @@
+pages\AppianUATPage.class
+stepdefinitions\AppianUATDefinitions.class
+UWAppianAutomation\com\UWAppianAutomation\App.class
+util\ScreenshotUtil.class
+pages\LoginPage.class
+stepdefinitions\Hook.class
+pages\Utils.class
+stepdefinitions\LoginDefinitions.class
+util\ConfigReader.class
+pages\Base.class

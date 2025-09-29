@@ -1,0 +1,11 @@
+<!-- Optional - Custom Look & Feel -->
+<extentreports>
+  <configuration>
+    <theme>dark</theme>
+    <encoding>utf-8</encoding>
+    <protocol>https</protocol>
+    <timelineEnabled>true</timelineEnabled>
+    <documentTitle>Automation Report</documentTitle>
+    <reportName>Chetwood - UW Automation Report</reportName>
+  </configuration>
+</extentreports>
